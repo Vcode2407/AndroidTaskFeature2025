@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # React Task Manager Pro
 
@@ -291,3 +292,6 @@ dist
 dist-ssr
 ```
 This README provides a comprehensive overview of the React Task Manager application, setup instructions, and usage guidelines.
+=======
+# AndroidTaskFeature2025
+>>>>>>> 5423eb7fe1a5d5f23af457308c332cd0386ade4a
