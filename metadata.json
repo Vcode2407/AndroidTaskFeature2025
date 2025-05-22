@@ -1,0 +1,5 @@
+
+{
+  "name": "React Task Manager",
+  "description": "A user-friendly task management application built with React, TypeScript, and Tailwind CSS. Users can add, edit, delete, and view tasks with persistence in local storage."
+}
